@@ -1,4 +1,4 @@
-import type { TShoppingList } from './ShoppingListsWrapper'
+import type { TShoppingList } from './ShoppingListWrapper'
 import {
   Accordion,
   Button, Col,
